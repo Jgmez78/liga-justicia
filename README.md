@@ -2,11 +2,7 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-<<<<<<< HEAD
 ## Estos cambios son nuevos desde repositorio remoto
-=======
-## Estos cambios son nuevos desde repositorio local
->>>>>>> 88a2ac3 (Readme actualizado)
 
 
 # h1
